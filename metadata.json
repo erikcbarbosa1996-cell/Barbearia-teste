@@ -1,0 +1,8 @@
+{
+  "name": "Barbearia Modelo",
+  "description": "Sistema completo de agendamento online para barbearias, painel administrativo da loja e assinatura SaaS multi-tenant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
